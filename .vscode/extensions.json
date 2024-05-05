@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+		"enhancedjs.html-in-template-string",
+    "DigitalBrainstem.javascript-ejs-support",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint"
+  ]
+}
